@@ -1,7 +1,7 @@
 # COGNORISE-UIUX
 
 
-# Ecommerce UI/UX Design
+# 1 - Ecommerce UI/UX Design
 
 This is an Ecommerce UI/UX design project created using Figma. It includes the following features:
 - Create Account / Login
@@ -16,7 +16,7 @@ This is an Ecommerce UI/UX design project created using Figma. It includes the f
 - User-friendly flow from product browsing to checkout
 
 
-# Modern Home Sale Magazine
+# 2 - Modern Home Sale Magazine
 
 This project contains the UI design for a Modern Home Sale Magazine, created with Figma. The design features:
 - Cover Page with Hero Image
@@ -30,7 +30,7 @@ This project contains the UI design for a Modern Home Sale Magazine, created wit
 - Sale promotion section
 
 
-# Business Card Design
+# 3 - Business Card Design
 
 This project contains the UI design for a modern and minimalistic business card, created with Figma.
 
